@@ -406,8 +406,3 @@ Lucrarea de laborator nr. 5 a demonstrat că securitatea unui site WordPress nu 
 6. **Monitorizarea activității** prin alerte email și loguri permite detectarea rapidă a incidentelor și reacția înainte ca daunele să devină ireparabile
 
 Securitatea nu înseamnă perfecțiune, ci **reducerea suprafeței de atac** și **capacitatea de a recupera rapid** după un incident.
-
----
-
-*Raport realizat în cadrul cursului de Sisteme de Gestionare a Conținutului*  
-*Lucrarea de Laborator Nr. 5 — Securitatea WordPress*
